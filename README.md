@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Web Development**
 
-- 📫 How to reach me **exp.g@mail.com**
+- 📫 How to reach me **iamdhananjaya119@gmail.com**
 
 - ⚡ Fun fact **Gamer**
 
