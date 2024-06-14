@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhananjaya Lakshan</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate IT Student from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshanjayalath&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanjayalath" /> </p>
 
-- 🌱 I’m currently learning **The Open University of Sri Lanka**
+- 🌱 I’m currently learning **JAVA**
+
+- 🧑‍🎓 I’m an Undergraduate at **The Open University of Sri Lanka**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakshanjayalath](https://github.com/lakshanjayalath)
 
@@ -12,6 +14,14 @@
 - 📫 How to reach me **iamdhananjaya119@gmail.com**
 
 - ⚡ Fun fact **Gamer**
+
+---
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=lakshanjayalath&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshanjayalath&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanjayalath&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=lakshanjayalath&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
