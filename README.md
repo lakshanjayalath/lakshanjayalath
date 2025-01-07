@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **iamdhananjaya119@gmail.com**
 
-- ⚡ Fun fact **Gamer**
 
 ---
 
