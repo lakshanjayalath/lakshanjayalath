@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshanjayalath&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanjayalath" /> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA, MERN**
 
 - 🧑‍🎓 I’m an Undergraduate at **The Open University of Sri Lanka**
 
